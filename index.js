@@ -28,4 +28,4 @@ function memberRf(removeFirst) {
     console.log(removeFirst.splice(0, 1))
 }
 console.log(removeFirst.splice(0, 1))
-sconsole.log(removeFirst)
+console.log(removeFirst)
